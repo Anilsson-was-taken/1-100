@@ -1,0 +1,7 @@
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\bin\Debug\1-100 conosle.exe.config
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\bin\Debug\1-100 conosle.exe
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\bin\Debug\1-100 conosle.pdb
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\obj\Debug\1-100 conosle.csprojAssemblyReference.cache
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\obj\Debug\1-100 conosle.csproj.CoreCompileInputs.cache
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\obj\Debug\1-100 conosle.exe
+C:\Users\alni03002\source\repos\1-100\1-100 conosle\1-100 conosle\obj\Debug\1-100 conosle.pdb
