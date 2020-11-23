@@ -34,8 +34,18 @@ namespace _1_100_conosle
                     Console.Clear();
                     Console.WriteLine("Your guess was to big");
                 }
-
+                else if (intGuess == answer)
+                {
+                    Console.Clear();
+                    correct = true;
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("You wrote an invalid number");
+                }
             }
+            Console.WriteLine("You guess was correct! \nThe number was " + answer + "\nYou made " + i + " guesses"); 
         }
     }
 }
